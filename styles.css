@@ -22,7 +22,7 @@ body {
     /* outline: 1px blue solid; */
 }
 .message {
-    padding-top: 6px;
+    padding-top: 7px;
     padding: 0 .5rem .375rem .625rem;
     position: relative;
     max-width: 480px;
